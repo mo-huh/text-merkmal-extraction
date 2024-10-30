@@ -1,0 +1,66 @@
+{
+    "konzept": "OpenThesaurus verwenden um regelbasierte Suche zum Sprachstil zu ermöglichen (Min-Max Normalisiert) (z.B. Regler, Sortierung). Dafür: Satz in Wörter zerlegen, Komposita zerlegen (Algorithmus folgt), wenn ein Merkmal für ein Wort oder ein Teilwort (lowercased) zutrifft (anhand Abgleich des Begriffs in der Klammer) => +1 für das Merkmal (auch kontrastierende Merkmale einberechnen, die im Nenner stehen)",
+    "merkmale": {
+        "Plauderhaft": {
+            "positive": ["ugs.", "Füllwörter", "?", "Pronomen", "floskelhaft", "fig.", "sprichwörtlich", "salopp", "emotional", "Spruch", "Anglizismus", "Redensart", "Denglisch", "Neologismus", "Jargon[~fachspr.]", "engl."],
+            "negative": ["Fachsprachlich"]
+        },
+        "Scherzhaft": {
+            "positive": ["scherzhaft", "scherzhaft-ironisch", "ironisch-scherzhaft", "positiv", "Spruch"],
+            "negative": ["Fachsprachlich"]
+        },
+        "Satirisch": {
+            "positive": ["kommentierend", "ironisch", "ironisierend", "euphemistisch", "verhüllend", "übertreibend", "abwertend", "negativ"]
+        },
+        "Bildhaft": {
+            "positive": ["fig.", "figurativ", "dichterisch", "literarisch"]
+        },
+        "Fachsprachlich": {
+            "positive": ["fachspr.", "technisch", "bildungssprachlich", "geh.", "lat.", "IT-Technik", "psychologisch", "zoologisch", "botanisch", "biologisch", "Abkürzung", "förmlich", "IUPAC", "medizinisch", "juristisch", "jur.", "ökonomisch", "kaufmännisch", "offiziell", "wissenschaftlich"],
+            "negative": ["Plauderhaft"]
+        },
+        "Hochdeutsch": {
+            "positive": [],
+            "negative": ["Historisch", "Plauderhaft", "Regional"]
+        },
+        "Historisch": {
+            "positive": ["lat.", "veraltend", "veraltet", "altertümelnd", "historisch"]
+        },
+        "Modern": {
+            "positive": [],
+            "negative": ["Historisch"]
+        },
+        "Obszön": {
+            "positive": ["derb", "vulg.", "anzüglich", "jugendsprachlich"]
+        },
+        "Politisch": {
+            "positive": ["journal.", "politisch", "Amtsdeutsch", "Papierdeutsch", "amtlich", "offiziell", "juristisch", "jur.", "mediensprachlich", "ökonomisch"]
+        },
+        "Regional": {
+            "positive": [],
+            "negative": ["regional", "landschaftlich", "schweiz.", "österr.", "süddt.", "bayr.", "kölsch", "norddeutsch", "hessisch", "bairisch", "altbairisch", "elsässisch", "ruhrdt.", "alemannisch", "schwäbisch", "fränk.", "niederdeutsch"]
+        },
+        "Fremdsprachlich": {
+            "positive": ["engl.", "franz.", "ital.", "russ.", "griechisch", "hindi", "lat.", "persisch", "norwegisch", "slawisch"]
+        },
+        "Innovativ": {
+            "positive": ["IDF"]
+        }
+    },
+    "hilfsmerkmale": {
+        "Füllwörter": ["ja", "halt", "auch", "doch", "schon", "denn", "etwa", "nur", "bloß", "eben", "mal", "gar", "ruhig", "eigentlich", "eh", "nun", "erstmal", "gleich", "zumindest", "wohl", "durchaus", "sicher"],
+        "Pronomen": ["Personalpronomen", "Reflexivpronomen", "Possessivpronomen", "Demonstrativpronomen", "Indefinitpronomen", "Interrogativpronomen", "Relativpronomen"],
+        "Personalpronomen": ["ich", "du", "er", "sie", "es", "wir", "ihr", "sie"],
+        "Reflexivpronomen": ["sich"],
+        "Possessivpronomen": ["mein", "dein", "sein", "unser", "euer", "ihr"],
+        "Demonstrativpronomen": ["der", "dieser", "jener", "derjenige", "derselbe"],
+        "Indefinitpronomen": ["man", "jemand", "niemand", "jeder", "alle", "etwas", "nichts"],
+        "Interrogativpronomen": ["wer", "was", "welcher", "was für ein"],
+        "Relativpronomen": ["der", "welcher", "wer", "was"],
+        "IDF": "Inverse Document Frequency"
+    },
+    "lizenz": {
+        "typ": "CC BY-SA 4.0",
+        "hinweis": "Alle Daten, die davon abgeleitet werden, müssen unter der gleichen Lizenz zur Verfügung gestellt werden."
+    }
+}

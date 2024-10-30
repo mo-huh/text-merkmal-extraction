@@ -1,0 +1,444 @@
+{
+    "Plauderhaft": {
+        "strongest": [
+            [
+                "Als der Filmemacher den endgültigen Schnitt seines Dokumentarfilms bearbeitete, war er stolz auf die Geschichte, die er eingefangen hatte, und auf die Wirkung, die sie auf die Zuschauer haben würde.",
+                12
+            ],
+            [
+                "Die neue Initiative der Stadt besteht darin, alle Straßenschilder durch \"Inspirational Quotes\" zu ersetzen, um die Navigation in der Stadt zu einer philosophisch bereichernden Erfahrung zu machen.",
+                11
+            ],
+            [
+                "Das ferne Rauschen der Wellen, die gegen die Klippen schlugen, bildete eine rhythmische Kulisse für den einsamen Leuchtturm, der die Schiffe sicher durch die Nacht führte.",
+                11
+            ],
+            [
+                "Die Stadt an der Grenze war ein Ort der Aufregung und der Gefahr, an dem die Fähigkeiten der Cowboys ständig auf die Probe gestellt wurden.",
+                11
+            ],
+            [
+                "Die Suche nach der Wahrheit ist eine Reise, auf der man sich durch die Komplexität der menschlichen Erfahrung und die Natur der Realität bewegen muss.",
+                10
+            ]
+        ],
+        "weakest": [
+            [
+                "Theoretische Beiträge zur Forschung beinhalten oft das Vorschlagen und Testen neuer Modelle oder Rahmenbedingungen.",
+                0
+            ],
+            [
+                "Historische Erzählungen spiegeln oft breitere gesellschaftliche Werte wider und können zeitgenössische kulturelle Haltungen beeinflussen.",
+                0
+            ]
+        ]
+    },
+    "Scherzhaft": {
+        "strongest": [
+            [
+                "Ein fesselnder Kriminalroman, der die Leser herausfordert, das Verbrechen vor dem Protagonisten zu lösen.",
+                1
+            ],
+            [
+                "Eine Reihe von Fotos zeigte sie an Orten, an denen sie noch nie gewesen war, alle aus verschiedenen Blickwinkeln aufgenommen.",
+                1
+            ],
+            [
+                "Auf dem staubigen Boden tauchten Fußspuren auf, die zu Orten führten, an denen noch nie jemand gewesen war.",
+                1
+            ],
+            [
+                "Jeden Morgen finden Sie Ihre Sachen auf seltsame Art und Weise umgestellt, als ob jemand anderes dort gewesen wäre.",
+                1
+            ],
+            [
+                "Ein unheimlicher, ungewohnter Geruch erfüllte das Haus, als ob vor kurzem etwas dort gewesen wäre.",
+                1
+            ]
+        ],
+        "weakest": [
+            [
+                "Die Forschung im Bereich der öffentlichen Verwaltung bewertet die Effektivität und Effizienz von Regierungsbehörden und -programmen.",
+                0
+            ],
+            [
+                "Das Verständnis der Prinzipien von Angebot und Nachfrage ist grundlegend für die Analyse von Marktverhalten und wirtschaftlichen Schwankungen.",
+                0
+            ]
+        ]
+    },
+    "Satirisch": {
+        "strongest": [
+            [
+                "Feiern Sie jeden noch so kleinen Sieg und gehen Sie weiter voran.",
+                2
+            ],
+            [
+                "Kaffee: weil Erwachsenwerden schwer ist und wir jede Hilfe brauchen, die wir bekommen können.",
+                2
+            ],
+            [
+                "Gerücht ungewiss vermutet angeblich Hörensagen Vermutung angeblich vermutet geglaubt.",
+                2
+            ],
+            [
+                "unsicheres, angeblich vom Hörensagen stammendes Geschwätz, angeblich vermutetes, geglaubtes Gerücht.",
+                2
+            ],
+            [
+                "ungewiss zweideutig vermutet Klatsch und Tratsch Hörensagen Gerücht angeblich angeblich geglaubt.",
+                2
+            ]
+        ],
+        "weakest": [
+            [
+                "Die Forschung im Bereich der öffentlichen Verwaltung bewertet die Effektivität und Effizienz von Regierungsbehörden und -programmen.",
+                0
+            ],
+            [
+                "Das Verständnis der Prinzipien von Angebot und Nachfrage ist grundlegend für die Analyse von Marktverhalten und wirtschaftlichen Schwankungen.",
+                0
+            ]
+        ]
+    },
+    "Bildhaft": {
+        "strongest": [
+            [
+                "Wenn alle Menschen, die wach sind, nicht schlafen und John wach ist, dann schläft er auch nicht.",
+                3
+            ],
+            [
+                "Ich bin auf Diät. Ich esse nur Lebensmittel, die gesund sind, oder zumindest behaupten, gesund zu sein.",
+                2
+            ],
+            [
+                "Während des ruhigen Abends bildete das leise Zirpen der Grillen draußen eine beruhigende Geräuschkulisse.",
+                2
+            ],
+            [
+                "Das leise Rascheln der Blätter draußen klang wie gemurmelte Drohungen.",
+                2
+            ],
+            [
+                "Das plötzliche Auftauchen einer Gestalt im Spiegel erschreckt Sie, deren Augen hohl und leer sind.",
+                2
+            ]
+        ],
+        "weakest": [
+            [
+                "Die Forschung im Bereich der öffentlichen Verwaltung bewertet die Effektivität und Effizienz von Regierungsbehörden und -programmen.",
+                0
+            ],
+            [
+                "Das Verständnis der Prinzipien von Angebot und Nachfrage ist grundlegend für die Analyse von Marktverhalten und wirtschaftlichen Schwankungen.",
+                0
+            ]
+        ]
+    },
+    "Fachsprachlich": {
+        "strongest": [
+            [
+                "Die Kraft Ihrer Träume kann Ihr Leben verändern und die Menschen in Ihrer Umgebung inspirieren, ihre eigenen Ziele zu erreichen.",
+                4
+            ],
+            [
+                "Glauben Sie an die Schönheit Ihrer Träume und an die Kraft Ihrer Entschlossenheit, sie zu verwirklichen.",
+                4
+            ],
+            [
+                "Glauben Sie an die Kraft Ihrer Träume und an die Stärke Ihrer Entschlossenheit, sie zu verwirklichen.",
+                4
+            ],
+            [
+                "Überwachen Sie die Fortschritte und gehen Sie alle Probleme umgehend an, um Verzögerungen zu vermeiden.",
+                4
+            ],
+            [
+                "Überprüfen Sie regelmäßig die Richtigkeit der Angaben und gehen Sie etwaige Probleme umgehend an.",
+                4
+            ]
+        ],
+        "weakest": [
+            [
+                "Die Forschung im Bereich der öffentlichen Verwaltung bewertet die Effektivität und Effizienz von Regierungsbehörden und -programmen.",
+                0
+            ],
+            [
+                "Das Verständnis der Prinzipien von Angebot und Nachfrage ist grundlegend für die Analyse von Marktverhalten und wirtschaftlichen Schwankungen.",
+                0
+            ]
+        ]
+    },
+    "Hochdeutsch": {
+        "strongest": [
+            [
+                "Jedes Knarren der Dielen in dem alten Herrenhaus schien ein neues Grauen anzukündigen.",
+                0
+            ],
+            [
+                "In der Dunkelheit der alten Mine lauerte etwas Uraltes und Unheimliches auf ahnungslose Eindringlinge.",
+                0
+            ],
+            [
+                "Die alte Standuhr schlug zwölfmal, wobei jede Glocke mit einer unheilvollen Endgültigkeit erklang.",
+                0
+            ],
+            [
+                "Die seelenlosen Augen der alten Statuen schienen jede Bewegung zu verfolgen, ihr Blick war von unausgesprochenem Schrecken erfüllt.",
+                0
+            ],
+            [
+                "Dunkle Gestalten tauchten in der Peripherie des Blickfeldes auf und verschwanden, wenn man sie direkt ansah.",
+                0
+            ]
+        ],
+        "weakest": [
+            [
+                "Die Forschung im Bereich der öffentlichen Verwaltung bewertet die Effektivität und Effizienz von Regierungsbehörden und -programmen.",
+                0
+            ],
+            [
+                "Das Verständnis der Prinzipien von Angebot und Nachfrage ist grundlegend für die Analyse von Marktverhalten und wirtschaftlichen Schwankungen.",
+                0
+            ]
+        ]
+    },
+    "Historisch": {
+        "strongest": [
+            [
+                "Ein kaltes, schleichendes Gefühl breitet sich in Ihrer Wohnung aus, wenn Sie allein sind, als ob etwas in der Nähe wäre.",
+                3
+            ],
+            [
+                "Inmitten der verstreuten Überreste ihrer zerbrochenen Träume sprach die Stille lauter als alle Worte es je könnten, jede Pause ein Zeugnis ihrer verlorenen Liebe.",
+                3
+            ],
+            [
+                "Was Sie durch das Erreichen Ihrer Ziele erhalten, ist nicht so wichtig wie das, was Sie durch das Erreichen Ihrer Ziele werden.",
+                3
+            ],
+            [
+                "Erfolg ist das Ergebnis Ihrer Bemühungen, Ihrer Beharrlichkeit und Ihrer Fähigkeit, sich an Veränderungen anzupassen.",
+                3
+            ],
+            [
+                "Sie stand allein in dem verlassenen Park, und die Stille bildete einen starken Kontrast zu dem Chaos ihrer Gedanken.",
+                3
+            ]
+        ],
+        "weakest": [
+            [
+                "Die Forschung im Bereich der öffentlichen Verwaltung bewertet die Effektivität und Effizienz von Regierungsbehörden und -programmen.",
+                0
+            ],
+            [
+                "Das Verständnis der Prinzipien von Angebot und Nachfrage ist grundlegend für die Analyse von Marktverhalten und wirtschaftlichen Schwankungen.",
+                0
+            ]
+        ]
+    },
+    "Modern": {
+        "strongest": [
+            [
+                "Jedes Knarren der Dielen in dem alten Herrenhaus schien ein neues Grauen anzukündigen.",
+                0
+            ],
+            [
+                "In der Dunkelheit der alten Mine lauerte etwas Uraltes und Unheimliches auf ahnungslose Eindringlinge.",
+                0
+            ],
+            [
+                "Die alte Standuhr schlug zwölfmal, wobei jede Glocke mit einer unheilvollen Endgültigkeit erklang.",
+                0
+            ],
+            [
+                "Die seelenlosen Augen der alten Statuen schienen jede Bewegung zu verfolgen, ihr Blick war von unausgesprochenem Schrecken erfüllt.",
+                0
+            ],
+            [
+                "Dunkle Gestalten tauchten in der Peripherie des Blickfeldes auf und verschwanden, wenn man sie direkt ansah.",
+                0
+            ]
+        ],
+        "weakest": [
+            [
+                "Die Forschung im Bereich der öffentlichen Verwaltung bewertet die Effektivität und Effizienz von Regierungsbehörden und -programmen.",
+                0
+            ],
+            [
+                "Das Verständnis der Prinzipien von Angebot und Nachfrage ist grundlegend für die Analyse von Marktverhalten und wirtschaftlichen Schwankungen.",
+                0
+            ]
+        ]
+    },
+    "Obszön": {
+        "strongest": [
+            [
+                "Ohne mich kann man nicht geil buchstabieren, aber ohne geil kann man mich buchstabieren.",
+                2
+            ],
+            [
+                "Der alte Dachboden war voll von Spinnweben und seltsamen, unheimlichen Artefakten, die ihn zu beobachten schienen.",
+                1
+            ],
+            [
+                "Der Dachboden war voll mit staubigen, spinnwebenbedeckten Gegenständen aus einer vergessenen Vergangenheit.",
+                1
+            ],
+            [
+                "Das aufregende Abenteuer in der neuen Stadt war voll von Erkundungen und Entdeckungen.",
+                1
+            ],
+            [
+                "Das Feiern der Erfolge anderer und der eigenen fördert eine Kultur der gegenseitigen Ermutigung.",
+                1
+            ]
+        ],
+        "weakest": [
+            [
+                "Die Forschung im Bereich der öffentlichen Verwaltung bewertet die Effektivität und Effizienz von Regierungsbehörden und -programmen.",
+                0
+            ],
+            [
+                "Das Verständnis der Prinzipien von Angebot und Nachfrage ist grundlegend für die Analyse von Marktverhalten und wirtschaftlichen Schwankungen.",
+                0
+            ]
+        ]
+    },
+    "Politisch": {
+        "strongest": [
+            [
+                "Die Schönheit der Kunst zu erleben, kann Ihre kreative Seite tief berühren und inspirieren.",
+                2
+            ],
+            [
+                "Eine kalte, unsichtbare Hand schien mich in dunklen Räumen zu berühren und mir einen Schauer über den Rücken zu jagen.",
+                2
+            ],
+            [
+                "In jedem Moment der Stille berühren wir die Essenz unseres höheren Selbst.",
+                2
+            ],
+            [
+                "In der Stille der Meditation berühren wir die göttliche Gegenwart, die in uns wohnt.",
+                2
+            ],
+            [
+                "In Momenten tiefer Reflexion berühren wir die unendliche Gegenwart des Göttlichen.",
+                2
+            ]
+        ],
+        "weakest": [
+            [
+                "Die Forschung im Bereich der öffentlichen Verwaltung bewertet die Effektivität und Effizienz von Regierungsbehörden und -programmen.",
+                0
+            ],
+            [
+                "Das Verständnis der Prinzipien von Angebot und Nachfrage ist grundlegend für die Analyse von Marktverhalten und wirtschaftlichen Schwankungen.",
+                0
+            ]
+        ]
+    },
+    "Regional": {
+        "strongest": [
+            [
+                "Jedes Knarren der Dielen in dem alten Herrenhaus schien ein neues Grauen anzukündigen.",
+                0
+            ],
+            [
+                "In der Dunkelheit der alten Mine lauerte etwas Uraltes und Unheimliches auf ahnungslose Eindringlinge.",
+                0
+            ],
+            [
+                "Die alte Standuhr schlug zwölfmal, wobei jede Glocke mit einer unheilvollen Endgültigkeit erklang.",
+                0
+            ],
+            [
+                "Die seelenlosen Augen der alten Statuen schienen jede Bewegung zu verfolgen, ihr Blick war von unausgesprochenem Schrecken erfüllt.",
+                0
+            ],
+            [
+                "Dunkle Gestalten tauchten in der Peripherie des Blickfeldes auf und verschwanden, wenn man sie direkt ansah.",
+                0
+            ]
+        ],
+        "weakest": [
+            [
+                "Ein altes Tagebuch, das unter einer losen Bodendiele gefunden wurde, enthielt beunruhigende Einträge über eine Reihe von mysteriösen Verschwinden.",
+                -4
+            ],
+            [
+                "Sichern Sie die losen Kabel mit Kabelbindern, um Stolperfallen im Arbeitsbereich zu vermeiden.",
+                -4
+            ]
+        ]
+    },
+    "Fremdsprachlich": {
+        "strongest": [
+            [
+                "Handeln Sie mit Zuversicht, und die Welt wird Ihnen folgen; Ihr Handeln wird andere inspirieren.",
+                2
+            ],
+            [
+                "Eine Vision ohne Handeln bleibt ein Traum, ein Handeln ohne Vision ist richtungslos.",
+                2
+            ],
+            [
+                "Das uralte Buch auf dem Regal schien sich von selbst zu bewegen, seine Seiten raschelten mit einer unsichtbaren Kraft.",
+                1
+            ],
+            [
+                "Die Erstellung einer Visionstafel kann dazu beitragen, Ihre Ziele zu verdeutlichen und zum Handeln anzuregen.",
+                1
+            ],
+            [
+                "Wenn wir andere durch unser Handeln und unsere Worte inspirieren, kann dies einen tiefgreifenden Einfluss auf ihr Leben haben.",
+                1
+            ]
+        ],
+        "weakest": [
+            [
+                "Die Forschung im Bereich der öffentlichen Verwaltung bewertet die Effektivität und Effizienz von Regierungsbehörden und -programmen.",
+                0
+            ],
+            [
+                "Das Verständnis der Prinzipien von Angebot und Nachfrage ist grundlegend für die Analyse von Marktverhalten und wirtschaftlichen Schwankungen.",
+                0
+            ]
+        ]
+    },
+    "Innovativ": {
+        "strongest": [
+            [
+                "Jedes Knarren der Dielen in dem alten Herrenhaus schien ein neues Grauen anzukündigen.",
+                0
+            ],
+            [
+                "In der Dunkelheit der alten Mine lauerte etwas Uraltes und Unheimliches auf ahnungslose Eindringlinge.",
+                0
+            ],
+            [
+                "Die alte Standuhr schlug zwölfmal, wobei jede Glocke mit einer unheilvollen Endgültigkeit erklang.",
+                0
+            ],
+            [
+                "Die seelenlosen Augen der alten Statuen schienen jede Bewegung zu verfolgen, ihr Blick war von unausgesprochenem Schrecken erfüllt.",
+                0
+            ],
+            [
+                "Dunkle Gestalten tauchten in der Peripherie des Blickfeldes auf und verschwanden, wenn man sie direkt ansah.",
+                0
+            ]
+        ],
+        "weakest": [
+            [
+                "Die Forschung im Bereich der öffentlichen Verwaltung bewertet die Effektivität und Effizienz von Regierungsbehörden und -programmen.",
+                0
+            ],
+            [
+                "Das Verständnis der Prinzipien von Angebot und Nachfrage ist grundlegend für die Analyse von Marktverhalten und wirtschaftlichen Schwankungen.",
+                0
+            ]
+        ]
+    }
+}
