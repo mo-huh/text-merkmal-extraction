@@ -37,8 +37,8 @@
             "positive": ["journal.", "politisch", "Amtsdeutsch", "Papierdeutsch", "amtlich", "offiziell", "juristisch", "jur.", "mediensprachlich", "ökonomisch"]
         },
         "Regional": {
-            "positive": [],
-            "negative": ["regional", "landschaftlich", "schweiz.", "österr.", "süddt.", "bayr.", "kölsch", "norddeutsch", "hessisch", "bairisch", "altbairisch", "elsässisch", "ruhrdt.", "alemannisch", "schwäbisch", "fränk.", "niederdeutsch"]
+            "positive": ["regional", "landschaftlich", "schweiz.", "österr.", "süddt.", "bayr.", "kölsch", "norddeutsch", "hessisch", "bairisch", "altbairisch", "elsässisch", "ruhrdt.", "alemannisch", "schwäbisch", "fränk.", "niederdeutsch", "bundesdeutsch"],
+            "negative": []
         },
         "Fremdsprachlich": {
             "positive": ["engl.", "franz.", "ital.", "russ.", "griechisch", "hindi", "lat.", "persisch", "norwegisch", "slawisch"]
@@ -59,6 +59,7 @@
         "Relativpronomen": ["der", "welcher", "wer", "was"],
         "IDF": "Inverse Document Frequency"
     },
+    "fehlt": ["Anrede", "Hauptform", "männl."],
     "lizenz": {
         "typ": "CC BY-SA 4.0",
         "hinweis": "Alle Daten, die davon abgeleitet werden, müssen unter der gleichen Lizenz zur Verfügung gestellt werden."

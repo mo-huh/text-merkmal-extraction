@@ -16,7 +16,7 @@ Im Rahmen der Hörbuchinhalte sollen nicht nur semantische, sondern auch stilist
 1. Regelbasierte Extraktion stilistischer Merkmale:
    - Implementierung eines Regelwerks zur Klassifizierung von Merkmalen (gleichgewichtet).
    - Das Regelwerk basiert auf Attributen aus einem Thesaurus und kann flexibel angepasst werden.
-   - Evaluierung anhand eines kleinen Textkorpus (ca. 10 Beispiele pro Merkmal) mit explorativer Sortierung nach Stärke des Merkmals.
+   - Evaluierung anhand eines kleinen Textkorpus mit explorativer Sortierung nach Stärke des Merkmals.
 
 2. Vektorisierung und Ähnlichkeitsanalyse:
    - Vektorisierung der Texte mittels TF-IDF.
@@ -67,7 +67,7 @@ Die Cosinus-Ähnlichkeiten zwischen Genres bieten eine Übersicht der stilistisc
 
 ### Voraussetzungen
 - `scikit-learn` und `matplotlib` müssen installiert sein.
-- JSON-Dateien mit Thesaurus- und Textdaten (`results.array.json`, `regelbasierte_suche.json`) sind erforderlich.
+- JSON-Dateien mit Thesaurus- und Textdaten (`results.array.json`, `regelbasierte_suche.json`) sowie `openthesaurus.txt` sind erforderlich.
 
 ### Ausführung
 1. **Regelbasierte Analyse**:
@@ -83,4 +83,4 @@ Die Cosinus-Ähnlichkeiten zwischen Genres bieten eine Übersicht der stilistisc
 
 ## Anpassung und Weiterentwicklung
 
-Das Regelwerk kann für eine genauere Analyse angepasst und erweitert werden. Der TF-IDF-Ansatz lässt sich auf größere Textmengen und verschiedene Textarten anwenden, um umfassendere stilistische Vergleiche durchzuführen.
+Das Regelwerk sowei der "openthesaurus"-Datensatz können für eine genauere Analyse angepasst und erweitert werden. Der TF-IDF-Ansatz lässt sich auf größere Textmengen und verschiedene Textarten anwenden, um umfassendere stilistische Vergleiche durchzuführen.
