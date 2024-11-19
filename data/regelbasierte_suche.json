@@ -2,7 +2,7 @@
     "konzept": "OpenThesaurus verwenden um regelbasierte Suche zum Sprachstil zu ermöglichen (Min-Max Normalisiert) (z.B. Regler, Sortierung). Dafür: Satz in Wörter zerlegen, Komposita zerlegen (Algorithmus folgt), wenn ein Merkmal für ein Wort oder ein Teilwort (lowercased) zutrifft (anhand Abgleich des Begriffs in der Klammer) => +1 für das Merkmal (auch kontrastierende Merkmale einberechnen, die im Nenner stehen)",
     "merkmale": {
         "Plauderhaft": {
-            "positive": ["ugs.", "Füllwörter", "?", "Pronomen", "floskelhaft", "fig.", "sprichwörtlich", "salopp", "emotional", "Spruch", "Anglizismus", "Redensart", "Denglisch", "Neologismus", "Jargon[~fachspr.]", "engl."],
+            "positive": ["Informelle_Pronomen", "Satzzeichen", "Füllwörter", "Interjektionen", "Verkürzungen", "Neologismen", "ugs.", "Füllwörter", "?", "Pronomen", "floskelhaft", "fig.", "sprichwörtlich", "salopp", "emotional", "Spruch", "Anglizismus", "Redensart", "Denglisch", "Neologismus", "Jargon[~fachspr.]", "engl."],
             "negative": ["Fachsprachlich"]
         },
         "Scherzhaft": {
@@ -20,7 +20,7 @@
             "negative": ["Plauderhaft"]
         },
         "Hochdeutsch": {
-            "positive": [],
+            "positive": ["Formelle_Pronomen", "Substantivierung", "geh.", "wissenschaftlich", "juristisch", "Amtsdeutsch"],
             "negative": ["Historisch", "Plauderhaft", "Regional"]
         },
         "Historisch": {
@@ -48,18 +48,25 @@
         }
     },
     "hilfsmerkmale": {
+        "Satzzeichen": ["!", "?", "...", "..", ",", ";", ":", "-", "–"],
         "Füllwörter": ["ja", "halt", "auch", "doch", "schon", "denn", "etwa", "nur", "bloß", "eben", "mal", "gar", "ruhig", "eigentlich", "eh", "nun", "erstmal", "gleich", "zumindest", "wohl", "durchaus", "sicher"],
+        "Interjektionen": ["oh", "ah", "tja", "naja", "wow", "huch"],
+        "Verkürzungen": ["’s", "n’", "ma", "bissl", "ok"],
+        "Neologismen": ["vllt", "kp", "lol", "omg", "rofl", "yolo"],
+        "Formelle_Pronomen": ["Sie", "Ihr", "Ihnen"],
+        "Informelle_Pronomen": ["ich", "du", "wir", "ihr", "sie"],
         "Pronomen": ["Personalpronomen", "Reflexivpronomen", "Possessivpronomen", "Demonstrativpronomen", "Indefinitpronomen", "Interrogativpronomen", "Relativpronomen"],
-        "Personalpronomen": ["ich", "du", "er", "sie", "es", "wir", "ihr", "sie"],
+        "Personalpronomen": ["er", "es"],
         "Reflexivpronomen": ["sich"],
         "Possessivpronomen": ["mein", "dein", "sein", "unser", "euer", "ihr"],
         "Demonstrativpronomen": ["der", "dieser", "jener", "derjenige", "derselbe"],
         "Indefinitpronomen": ["man", "jemand", "niemand", "jeder", "alle", "etwas", "nichts"],
         "Interrogativpronomen": ["wer", "was", "welcher", "was für ein"],
         "Relativpronomen": ["der", "welcher", "wer", "was"],
-        "IDF": "Inverse Document Frequency"
+        "IDF": "Inverse Document Frequency",
+        "Dynamische_Merkmale": ["HH:MM"]
     },
-    "fehlt": ["Anrede", "Hauptform", "männl."],
+    "fehlt": ["Hauptform", "männl."],
     "lizenz": {
         "typ": "CC BY-SA 4.0",
         "hinweis": "Alle Daten, die davon abgeleitet werden, müssen unter der gleichen Lizenz zur Verfügung gestellt werden."
