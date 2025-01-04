@@ -1,0 +1,535 @@
+{
+    "Fachsprachlich": {
+        "strongest": [
+            [
+                "Der(0) rhythmische(0) Klang(0) des(0) Trommelschlags(0) entsprach(0) dem(0) Puls(2|fachspr., lat.) ihrer(1|geh.) Erregung(0) .(0)",
+                0.2727272727272727,
+                1.0
+            ],
+            [
+                "Sofortige(0) Maßnahmen(0) werden(0) das(0) Problem(0) umgehend(2|geh., kaufmännisch) lösen(0) .(0)",
+                0.25,
+                0.98
+            ],
+            [
+                "Berge(1|fachspr.) inspirieren(0) Dichter(0) oft(0) wegen(0) ihrer(1|geh.) majestätischen(0) Schönheit(0) und(0) zeitlosen(0) Präsenz(1|geh.) .(0)",
+                0.25,
+                0.98
+            ],
+            [
+                "Architektonische(0) Entwürfe(0) spiegeln(0) oft(0) den(0) kulturellen(0) und(0) historischen(0) Kontext(2|geh., bildungssprachlich) ihres(0) Standorts(0) wider(1|geh.) .(0)",
+                0.23076923076923078,
+                0.96
+            ],
+            [
+                "Das(0) Kundendienstteam(0) hat(0) Anfragen(0) bearbeitet(0) und(0) Probleme(0) umgehend(2|geh., kaufmännisch) gelöst(0) .(0)",
+                0.2,
+                0.92
+            ]
+        ],
+        "weakest": [
+            [
+                "Wenn(0) wir(-1|Plauderhaft) durch(-1|Plauderhaft) Wohltätigkeit(0) Chancen(0) für(-1|Plauderhaft) andere(0) schaffen(-1|Plauderhaft) ,(-1|Plauderhaft) haben(-1|Plauderhaft) wir(-1|Plauderhaft) eine(-1|Plauderhaft) bessere(0) Zukunft(-1|Plauderhaft) für(-1|Plauderhaft) alle(-1|Plauderhaft) .(0)",
+                -0.6470588235294118,
+                0.02
+            ],
+            [
+                "Weißt(0) du(-1|Plauderhaft) noch(0) ,(-1|Plauderhaft) wie(-1|Plauderhaft) wir(-1|Plauderhaft) einmal(-1|Plauderhaft) versucht(0) haben(-1|Plauderhaft) ,(-1|Plauderhaft) zusammen(0) Sushi(0) zu(-1|Plauderhaft) machen(-1|Plauderhaft) ?(-1|Plauderhaft)",
+                -0.6666666666666666,
+                0.0
+            ]
+        ]
+    },
+    "Modern": {
+        "strongest": [
+            [
+                "Jedes(0) Knarren(0) der(0) Dielen(0) in(0) dem(0) alten(0) Herrenhaus(0) schien(0) ein(0) neues(0) Grauen(0) anzukündigen(0) .(0)",
+                0.0,
+                1.0
+            ],
+            [
+                "In(0) der(0) Dunkelheit(0) der(0) alten(0) Mine(0) lauerte(0) etwas(0) Uraltes(0) und(0) Unheimliches(0) auf(0) ahnungslose(0) Eindringlinge(0) .(0)",
+                0.0,
+                1.0
+            ],
+            [
+                "Die(0) alte(0) Standuhr(0) schlug(0) zwölfmal(0) ,(0) wobei(0) jede(0) Glocke(0) mit(0) einer(0) unheilvollen(0) Endgültigkeit(0) erklang(0) .(0)",
+                0.0,
+                1.0
+            ],
+            [
+                "Die(0) seelenlosen(0) Augen(0) der(0) alten(0) Statuen(0) schienen(0) jede(0) Bewegung(0) zu(0) verfolgen(0) ,(0) ihr(0) Blick(0) war(0) von(0) unausgesprochenem(0) Schrecken(0) erfüllt(0) .(0)",
+                0.0,
+                1.0
+            ],
+            [
+                "Dunkle(0) Gestalten(0) tauchten(0) in(0) der(0) Peripherie(0) des(0) Blickfeldes(0) auf(0) und(0) verschwanden(0) ,(0) wenn(0) man(0) sie(0) direkt(0) ansah(0) .(0)",
+                0.0,
+                1.0
+            ]
+        ],
+        "weakest": [
+            [
+                "Inmitten(0) der(0) Trümmer(0) ihrer(-1|Historisch) Liebe(0) fielen(0) ihre(0) Tränen(0) wie(0) Regen(0) auf(0) die(0) Asche(-1|Historisch) ihrer(-1|Historisch) Vergangenheit(0) .(0)",
+                -0.1875,
+                0.06
+            ],
+            [
+                "Die(0) Ermordung(0) von(0) Julius(0) Cäsar(-1|Historisch) führte(0) zum(0) Aufstieg(0) des(0) Römischen(0) Reiches(0) und(0) Augustus(-1|Historisch) Cäsar(-1|Historisch) .(0)",
+                -0.2,
+                0.0
+            ]
+        ]
+    },
+    "Plauderhaft": {
+        "strongest": [
+            [
+                "Die(1|engl.) Lieblingsmusik(0) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Kamele(0) ist(0) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Buckel(1|ugs.) -(1|Satzzeichen) Blues(2|ugs., fig.) .(0)",
+                1.0999999999999999,
+                1.0
+            ],
+            [
+                "Die(1|engl.) Katze(0) bestand(0) darauf(0) ,(1|Satzzeichen) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Star(1|engl.) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Videoproduktion(0) zu(1|ugs.) sein(3|ugs., salopp, Possessivpronomen) .(0)",
+                1.0833333333333335,
+                0.99
+            ],
+            [
+                "In(0) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Stille(0) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Kapelle(0) mischte(0) sich(1|Reflexivpronomen) das(0) leise(1|fig.) Echo(1|ugs.) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Hymnen(0) mit(1|ugs.) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Stille(0) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Ehrfurcht(0) .(0)",
+                1.0555555555555556,
+                0.97
+            ],
+            [
+                "In(0) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Umarmung(0) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Natur(0) verbindet(0) sich(1|Reflexivpronomen) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Geist(0) wieder(0) mit(1|ugs.) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) zeitlosen(0) Essenz(1|fig.) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Schöpfung(-1|Fachsprachlich) .(0)",
+                1.0,
+                0.93
+            ],
+            [
+                "In(0) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Stille(0) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Nacht(0) kontempliert(0) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Geist(0) über(1|ugs.) die(1|ugs.) Geheimnisse(0) der(3|Pronomen, Demonstrativpronomen, Relativpronomen) Existenz(0) .(0)",
+                0.9999999999999999,
+                0.93
+            ]
+        ],
+        "weakest": [
+            [
+                "Berge(-1|Fachsprachlich) inspirieren(0) Dichter(0) oft(0) wegen(0) ihrer(-1|Fachsprachlich) majestätischen(0) Schönheit(0) und(0) zeitlosen(0) Präsenz(-1|Fachsprachlich) .(0)",
+                -0.25,
+                0.0
+            ],
+            [
+                "Seine(0) Schritte(0) hallten(0) seltsam(0) in(0) dem(0) sonst(0) so(-1|Fachsprachlich) stillen(0) Korridor(-1|Fachsprachlich) wider(-1|Fachsprachlich) .(0)",
+                -0.25,
+                0.0
+            ]
+        ]
+    },
+    "Hochdeutsch": {
+        "strongest": [
+            [
+                "Stärken(0) Sie(1|Formelle_Pronomen) Ihr(1|Formelle_Pronomen) Selbstvertrauen(0) und(0) lassen(0) Sie(1|Formelle_Pronomen) es(0) Sie(1|Formelle_Pronomen) zum(0) Erfolg(0) führen(0) .(0)",
+                0.3076923076923077,
+                1.0
+            ],
+            [
+                "Entfalten(0) Sie(1|Formelle_Pronomen) Ihr(1|Formelle_Pronomen) volles(0) Potenzial(0) und(0) verwandeln(0) Sie(1|Formelle_Pronomen) Herausforderungen(0) in(0) spannende(0) Chancen(0) .(0)",
+                0.23076923076923078,
+                0.93
+            ],
+            [
+                "Bewerten(0) Sie(1|Formelle_Pronomen) abschließend(1|geh.) den(0) Gesamterfolg(0) des(0) Projekts(0) und(0) legen(0) Sie(1|Formelle_Pronomen) künftige(0) Verbesserungen(0) fest(0) .(0)",
+                0.21428571428571427,
+                0.91
+            ],
+            [
+                "Selbst(0) im(0) Angesicht(0) von(0) Widrigkeiten(0) werden(0) Ihr(1|Formelle_Pronomen) Mut(0) und(0) Ihr(1|Formelle_Pronomen) Optimismus(0) Sie(1|Formelle_Pronomen) weiterbringen(0) .(0)",
+                0.21428571428571427,
+                0.91
+            ],
+            [
+                "Investieren(0) Sie(1|Formelle_Pronomen) in(0) unsere(0) fortschrittlichen(0) Lösungen(0) und(0) erleben(0) Sie(1|Formelle_Pronomen) außergewöhnlichen(0) Wert(0) und(0) Leistung(1|Amtsdeutsch) .(0)",
+                0.21428571428571427,
+                0.91
+            ]
+        ],
+        "weakest": [
+            [
+                "Aus(-1|Plauderhaft) der(-1|Plauderhaft) Asche(-2|Plauderhaft, Historisch) auferstanden(0) ,(-1|Plauderhaft) nahm(0) sie(-1|Plauderhaft) die(-1|Plauderhaft) Herausforderung(-1|Plauderhaft) mit(-1|Plauderhaft) unnachgiebiger(0) Entschlossenheit(0) an(-1|Plauderhaft) .(0)",
+                -0.7142857142857141,
+                0.02
+            ],
+            [
+                "Aus(-1|Plauderhaft) der(-1|Plauderhaft) Asche(-2|Plauderhaft, Historisch) der(-1|Plauderhaft) Niederlage(0) erhob(0) sich(-1|Plauderhaft) der(-1|Plauderhaft) Champion(0) ,(-1|Plauderhaft) um(-1|Regional) alle(-1|Plauderhaft) zu(-1|Plauderhaft) inspirieren(0) .(0)",
+                -0.7333333333333333,
+                0.0
+            ]
+        ]
+    },
+    "Satirisch": {
+        "strongest": [
+            [
+                "Gerücht(0) ungewiss(0) vermutet(0) angeblich(1|negativ) Hörensagen(0) Vermutung(0) angeblich(1|negativ) vermutet(0) geglaubt(0) .(0)",
+                0.2,
+                1.0
+            ],
+            [
+                "geglaubt(0) vage(0) angedeutet(0) vermutet(0) angeblich(1|negativ) angeblich(1|negativ) angedeutet(0) ungewisse(0) Geschichte(0) Gerücht(0) .(0)",
+                0.18181818181818182,
+                0.91
+            ],
+            [
+                "Behauptung(0) angedeutet(0) vage(0) angeblich(1|negativ) Insider(0) zweideutig(0) Hörensagen(0) ungewiss(0) Gerücht(0) angeblich(1|negativ) .(0)",
+                0.18181818181818182,
+                0.91
+            ],
+            [
+                "ungewiss(0) zweideutig(0) vermutet(0) Klatsch(0) und(0) Tratsch(0) Hörensagen(0) Gerücht(0) angeblich(1|negativ) angeblich(1|negativ) geglaubt(0) .(0)",
+                0.16666666666666666,
+                0.83
+            ],
+            [
+                "unsicheres(0) Gemurmel(0) vermutet(0) geflüsterter(0) Klatsch(0) mehrdeutig(0) angedeutet(0) angeblich(1|negativ) vom(0) Hörensagen(0) angeblich(1|negativ) .(0)",
+                0.16666666666666666,
+                0.83
+            ]
+        ],
+        "weakest": [
+            [
+                "Die(0) Forschung(0) im(0) Bereich(0) der(0) öffentlichen(0) Verwaltung(0) bewertet(0) die(0) Effektivität(0) und(0) Effizienz(0) von(0) Regierungsbehörden(0) und(0) -(0) programmen(0) .(0)",
+                0.0,
+                0.0
+            ],
+            [
+                "Das(0) Verständnis(0) der(0) Prinzipien(0) von(0) Angebot(0) und(0) Nachfrage(0) ist(0) grundlegend(0) für(0) die(0) Analyse(0) von(0) Marktverhalten(0) und(0) wirtschaftlichen(0) Schwankungen(0) .(0)",
+                0.0,
+                0.0
+            ]
+        ]
+    },
+    "Regional": {
+        "strongest": [
+            [
+                "Sichern(0) Sie(0) die(0) losen(3|schweiz., süddt., österr.) Kabel(0) mit(0) Kabelbindern(0) ,(0) um(1|österr.) Stolperfallen(0) im(0) Arbeitsbereich(0) zu(0) vermeiden(0) .(0)",
+                0.26666666666666666,
+                1.0
+            ],
+            [
+                "Am(0) Rande(1|schweiz.) der(0) Einöde(2|bayr., österr.) stehen(0) die(0) skelettartigen(0) Überreste(0) einst(0) florierender(0) Unternehmen(0) .(0)",
+                0.25,
+                0.94
+            ],
+            [
+                "Eine(0) Gemeinschaftsküche(0) wurde(0) eingerichtet(0) ,(0) um(1|österr.) Bedürftige(0) mit(0) Mahlzeiten(0) zu(0) versorgen(2|schweiz., österr.) .(0)",
+                0.25,
+                0.94
+            ],
+            [
+                "Unter(0) dem(0) Sternenhimmel(0) verwandelte(0) sich(0) die(0) Wüstenlandschaft(0) in(0) ein(0) geheimnisvolles(0) Tableau(3|regional, schweiz., österr.) .(0)",
+                0.25,
+                0.94
+            ],
+            [
+                "Wie(0) schaffen(1|schwäbisch) Sie(0) den(0) Spagat(2|bayr., österr.) zwischen(0) beruflichen(0) Verpflichtungen(0) und(0) persönlichen(0) Interessen(0) ?(0)",
+                0.25,
+                0.94
+            ]
+        ],
+        "weakest": [
+            [
+                "Die(0) Forschung(0) im(0) Bereich(0) der(0) öffentlichen(0) Verwaltung(0) bewertet(0) die(0) Effektivität(0) und(0) Effizienz(0) von(0) Regierungsbehörden(0) und(0) -(0) programmen(0) .(0)",
+                0.0,
+                0.0
+            ],
+            [
+                "Das(0) Verständnis(0) der(0) Prinzipien(0) von(0) Angebot(0) und(0) Nachfrage(0) ist(0) grundlegend(0) für(0) die(0) Analyse(0) von(0) Marktverhalten(0) und(0) wirtschaftlichen(0) Schwankungen(0) .(0)",
+                0.0,
+                0.0
+            ]
+        ]
+    },
+    "Historisch": {
+        "strongest": [
+            [
+                "Die(0) Ermordung(0) von(0) Julius(0) Cäsar(1|lat.) führte(0) zum(0) Aufstieg(0) des(0) Römischen(0) Reiches(0) und(0) Augustus(1|lat.) Cäsar(1|lat.) .(0)",
+                0.2,
+                1.0
+            ],
+            [
+                "Inmitten(0) der(0) Trümmer(0) ihrer(1|veraltend) Liebe(0) fielen(0) ihre(0) Tränen(0) wie(0) Regen(0) auf(0) die(0) Asche(1|veraltet) ihrer(1|veraltend) Vergangenheit(0) .(0)",
+                0.1875,
+                0.94
+            ],
+            [
+                "Der(0) leere(0) Widerhall(0) ihrer(1|veraltend) Verzweiflung(0) hallte(0) durch(0) die(0) stille(1|veraltet) Nacht(0) .(0)",
+                0.18181818181818182,
+                0.91
+            ],
+            [
+                "Der(0) rhythmische(0) Klang(0) des(0) Trommelschlags(0) entsprach(0) dem(0) Puls(1|lat.) ihrer(1|veraltend) Erregung(0) .(0)",
+                0.18181818181818182,
+                0.91
+            ],
+            [
+                "Sein(0) kraftvoller(0) Schwung(1|veraltet) brach(1|veraltet) die(0) Verteidigung(0) des(0) Gegners(0) vollständig(0) auf(0) .(0)",
+                0.18181818181818182,
+                0.91
+            ]
+        ],
+        "weakest": [
+            [
+                "Die(0) Forschung(0) im(0) Bereich(0) der(0) öffentlichen(0) Verwaltung(0) bewertet(0) die(0) Effektivität(0) und(0) Effizienz(0) von(0) Regierungsbehörden(0) und(0) -(0) programmen(0) .(0)",
+                0.0,
+                0.0
+            ],
+            [
+                "Das(0) Verständnis(0) der(0) Prinzipien(0) von(0) Angebot(0) und(0) Nachfrage(0) ist(0) grundlegend(0) für(0) die(0) Analyse(0) von(0) Marktverhalten(0) und(0) wirtschaftlichen(0) Schwankungen(0) .(0)",
+                0.0,
+                0.0
+            ]
+        ]
+    },
+    "Bildhaft": {
+        "strongest": [
+            [
+                "Da(0) kein(0) Tier(0) ohne(0) Flügel(1|fig.) fliegen(1|fig.) kann(0) und(0) dieser(0) Vogel(1|fig.) Flügel(1|fig.) hat(0) ,(0) kann(0) er(0) fliegen(1|fig.) .(0)",
+                0.29411764705882354,
+                1.0
+            ],
+            [
+                "In(0) der(0) gemütlichen(0) Hütte(0) knisterte(0) das(0) Feuer(1|fig.) warm(1|fig.) ,(0) während(0) draußen(1|fig.) der(0) Schnee(0) leise(1|fig.) fiel(0) .(0)",
+                0.25,
+                0.85
+            ],
+            [
+                "Da(0) kein(0) Lebewesen(0) ohne(0) Flügel(1|fig.) fliegen(1|fig.) kann(0) und(0) Vögel(0) Flügel(1|fig.) haben(0) ,(0) können(0) alle(0) Vögel(0) fliegen(1|fig.) .(0)",
+                0.23529411764705882,
+                0.8
+            ],
+            [
+                "Wenn(0) jeder(0) Vogel(1|fig.) fliegen(1|fig.) kann(0) ,(0) und(0) dieses(0) Wesen(0) kann(0) fliegen(1|fig.) ,(0) ist(0) es(0) ein(0) Vogel(1|fig.) .(0)",
+                0.23529411764705882,
+                0.8
+            ],
+            [
+                "Das(0) Flüstern(0) Ihres(0) Namens(0) wird(0) von(0) Sekunde(1|fig.) zu(0) Sekunde(1|fig.) lauter(1|dichterisch) und(0) eindringlicher(0) .(0)",
+                0.23076923076923078,
+                0.78
+            ]
+        ],
+        "weakest": [
+            [
+                "Die(0) Forschung(0) im(0) Bereich(0) der(0) öffentlichen(0) Verwaltung(0) bewertet(0) die(0) Effektivität(0) und(0) Effizienz(0) von(0) Regierungsbehörden(0) und(0) -(0) programmen(0) .(0)",
+                0.0,
+                0.0
+            ],
+            [
+                "Das(0) Verständnis(0) der(0) Prinzipien(0) von(0) Angebot(0) und(0) Nachfrage(0) ist(0) grundlegend(0) für(0) die(0) Analyse(0) von(0) Marktverhalten(0) und(0) wirtschaftlichen(0) Schwankungen(0) .(0)",
+                0.0,
+                0.0
+            ]
+        ]
+    },
+    "Obszön": {
+        "strongest": [
+            [
+                "Da(0) jeder(0) Hund(1|derb) einen(0) Schwanz(1|derb) hat(0) und(0) Rex(0) ein(0) Hund(1|derb) ist(0) ,(0) folgt(0) daraus(0) ,(0) dass(0) Rex(0) einen(0) Schwanz(1|derb) hat(0) .(0)",
+                0.19047619047619047,
+                1.0
+            ],
+            [
+                "Wenn(0) alle(0) Hunde(0) einen(0) Schwanz(1|derb) haben(0) und(0) Fido(0) ein(0) Hund(1|derb) ist(0) ,(0) hat(0) Fido(0) einen(0) Schwanz(1|derb) .(0)",
+                0.1764705882352941,
+                0.93
+            ],
+            [
+                "Wenn(0) jeder(0) Hund(1|derb) mit(0) dem(0) Schwanz(1|derb) wedeln(0) kann(0) und(0) Rex(0) ein(0) Hund(1|derb) ist(0) ,(0) dann(0) kann(0) Rex(0) auch(0) mit(0) dem(0) Schwanz(1|derb) wedeln(0) .(0)",
+                0.17391304347826086,
+                0.91
+            ],
+            [
+                "Da(0) jeder(0) Hund(1|derb) einen(0) Schwanz(1|derb) hat(0) und(0) dieses(0) Tier(0) ein(0) Hund(1|derb) ist(0) ,(0) folgt(0) daraus(0) ,(0) dass(0) dieses(0) Tier(0) einen(0) Schwanz(1|derb) hat(0) .(0)",
+                0.17391304347826086,
+                0.91
+            ],
+            [
+                "Der(0) freundliche(0) Hund(1|derb) wedelte(0) mit(0) dem(0) Schwanz(1|derb) und(0) erfreute(0) alle(0) Anwesenden(0) .(0)",
+                0.16666666666666666,
+                0.88
+            ]
+        ],
+        "weakest": [
+            [
+                "Die(0) Forschung(0) im(0) Bereich(0) der(0) öffentlichen(0) Verwaltung(0) bewertet(0) die(0) Effektivität(0) und(0) Effizienz(0) von(0) Regierungsbehörden(0) und(0) -(0) programmen(0) .(0)",
+                0.0,
+                0.0
+            ],
+            [
+                "Das(0) Verständnis(0) der(0) Prinzipien(0) von(0) Angebot(0) und(0) Nachfrage(0) ist(0) grundlegend(0) für(0) die(0) Analyse(0) von(0) Marktverhalten(0) und(0) wirtschaftlichen(0) Schwankungen(0) .(0)",
+                0.0,
+                0.0
+            ]
+        ]
+    },
+    "Fremdsprachlich": {
+        "strongest": [
+            [
+                "Die(1|engl.) Industrielle(0) Revolution(2|franz., lat.) verbreitete(0) technologische(0) Innovationen(0) über(0) den(0) gesamten(0) Globus(1|griechisch) .(0)",
+                0.36363636363636365,
+                1.0
+            ],
+            [
+                "Die(1|engl.) industrielle(0) Revolution(2|franz., lat.) veränderte(0) die(0) Volkswirtschaften(0) durch(0) technologische(0) Innovationen(0) .(0)",
+                0.30000000000000004,
+                0.83
+            ],
+            [
+                "Die(1|engl.) Französische(0) Revolution(2|franz., lat.) veränderte(0) die(0) politische(0) Landschaft(0) in(0) Europa(0) drastisch(0) .(0)",
+                0.2727272727272727,
+                0.75
+            ],
+            [
+                "Die(1|engl.) digitale(0) Revolution(2|franz., lat.) hat(0) die(0) Unterhaltungs(0) -(0) und(0) Medienbranche(0) verändert(0) .(0)",
+                0.2727272727272727,
+                0.75
+            ],
+            [
+                "Die(1|engl.) Russische(0) Revolution(2|franz., lat.) von(0) 1917(0) führte(0) zur(0) Gründung(0) der(0) Sowjetunion(0) .(0)",
+                0.2727272727272727,
+                0.75
+            ]
+        ],
+        "weakest": [
+            [
+                "Mathematische(0) Beweise(0) dienen(0) der(0) strengen(0) Validierung(0) von(0) Theoremen(0) und(0) Vermutungen(0) in(0) der(0) reinen(0) Mathematik(0) .(0)",
+                0.0,
+                0.0
+            ],
+            [
+                "Das(0) Verständnis(0) der(0) Prinzipien(0) von(0) Angebot(0) und(0) Nachfrage(0) ist(0) grundlegend(0) für(0) die(0) Analyse(0) von(0) Marktverhalten(0) und(0) wirtschaftlichen(0) Schwankungen(0) .(0)",
+                0.0,
+                0.0
+            ]
+        ]
+    },
+    "Politisch": {
+        "strongest": [
+            [
+                "Durch(0) Mitgefühl(0) berühren(2|Amtsdeutsch, juristisch) wir(0) die(0) Essenz(0) des(0) Göttlichen(0) in(0) anderen(0) .(0)",
+                0.18181818181818182,
+                1.0
+            ],
+            [
+                "Die(0) Schönheit(0) eines(0) gut(0) formulierten(0) Gedichts(0) kann(0) die(0) Seele(0) tief(0) berühren(2|Amtsdeutsch, juristisch) .(0)",
+                0.16666666666666666,
+                0.92
+            ],
+            [
+                "In(0) Momenten(0) tiefer(0) Reflexion(0) berühren(2|Amtsdeutsch, juristisch) wir(0) die(0) unendliche(0) Gegenwart(0) des(0) Göttlichen(0) .(0)",
+                0.16666666666666666,
+                0.92
+            ],
+            [
+                "Mitfühlende(0) Worte(0) können(0) Wunden(0) heilen(0) ,(0) die(0) Taten(0) nicht(0) berühren(2|Amtsdeutsch, juristisch) können(0) .(0)",
+                0.16666666666666666,
+                0.92
+            ],
+            [
+                "In(0) jedem(0) Moment(0) der(0) Stille(0) berühren(2|Amtsdeutsch, juristisch) wir(0) die(0) Essenz(0) unseres(0) höheren(0) Selbst(0) .(0)",
+                0.15384615384615385,
+                0.85
+            ]
+        ],
+        "weakest": [
+            [
+                "Die(0) Forschung(0) im(0) Bereich(0) der(0) öffentlichen(0) Verwaltung(0) bewertet(0) die(0) Effektivität(0) und(0) Effizienz(0) von(0) Regierungsbehörden(0) und(0) -(0) programmen(0) .(0)",
+                0.0,
+                0.0
+            ],
+            [
+                "Das(0) Verständnis(0) der(0) Prinzipien(0) von(0) Angebot(0) und(0) Nachfrage(0) ist(0) grundlegend(0) für(0) die(0) Analyse(0) von(0) Marktverhalten(0) und(0) wirtschaftlichen(0) Schwankungen(0) .(0)",
+                0.0,
+                0.0
+            ]
+        ]
+    },
+    "Scherzhaft": {
+        "strongest": [
+            [
+                "Alle(0) Gemüse(1|scherzhaft) sind(0) Pflanzen(0) ,(0) also(0) muss(0) diese(0) Pflanze(0) ein(0) Gemüse(1|scherzhaft) sein(0) .(0)",
+                0.15384615384615385,
+                1.0
+            ],
+            [
+                "Da(0) alle(0) Gemüse(1|scherzhaft) essbar(0) sind(0) und(0) Karotten(0) Gemüse(1|scherzhaft) sind(0) ,(0) sind(0) Karotten(0) essbar(0) .(0)",
+                0.14285714285714285,
+                0.97
+            ],
+            [
+                "Keine(0) Frucht(0) ist(0) ein(0) Gemüse(1|scherzhaft) ,(0) also(0) kann(0) auch(0) eine(0) Tomate(0) kein(0) Gemüse(1|scherzhaft) sein(0) .(0)",
+                0.13333333333333333,
+                0.95
+            ],
+            [
+                "Wenn(0) jedes(0) Gemüse(1|scherzhaft) essbar(0) ist(0) und(0) Karotten(0) Gemüse(1|scherzhaft) sind(0) ,(0) dann(0) müssen(0) Karotten(0) essbar(0) sein(0) .(0)",
+                0.125,
+                0.93
+            ],
+            [
+                "Der(0) örtliche(0) Bauernmarkt(0) liefert(0) wöchentlich(0) frisches(0) Obst(0) und(0) Gemüse(1|scherzhaft) .(0)",
+                0.1,
+                0.87
+            ]
+        ],
+        "weakest": [
+            [
+                "Die(0) bildgebende(0) Diagnostik(-1|Fachsprachlich) ergab(0) eine(0) Fraktur(-1|Fachsprachlich) des(0) distalen(0) Radius(-1|Fachsprachlich) des(0) Unterarms(0) .(0)",
+                -0.25,
+                0.05
+            ],
+            [
+                "Im(0) Akt(-1|Fachsprachlich) der(0) Schöpfung(-1|Fachsprachlich) spiegelt(0) sich(0) unser(0) innerstes(0) Wesen(0) wider(-1|Fachsprachlich) .(0)",
+                -0.2727272727272727,
+                0.0
+            ]
+        ]
+    },
+    "Innovativ": {
+        "strongest": [
+            [
+                "Setzen(0) Sie(0) Feedback(0) konstruktiv(0) um(1|IDF) ,(0) um(1|IDF) Ihre(0) Arbeitsqualität(0) zu(0) verbessern(0) .(0)",
+                0.16666666666666666,
+                1.0
+            ],
+            [
+                "Bevor(0) er(1|IDF) seine(0) lange(0) Reise(0) antrat(0) ,(0) studierte(0) er(1|IDF) die(0) Karte(0) sorgfältig(0) .(0)",
+                0.15384615384615385,
+                0.92
+            ],
+            [
+                "Während(0) er(1|IDF) auf(0) seinen(0) Flug(0) wartete(0) ,(0) las(0) er(1|IDF) einen(0) Roman(0) ,(0) um(1|IDF) sich(0) die(0) Zeit(0) angenehm(0) zu(0) vertreiben(0) .(0)",
+                0.15000000000000002,
+                0.9
+            ],
+            [
+                "Mit(0) jedem(0) neuen(0) Buch(0) fand(0) er(1|IDF) eine(0) neue(0) Welt(0) ,(0) in(0) die(0) er(1|IDF) flüchten(0) und(0) die(0) er(1|IDF) erkunden(0) konnte(0) .(0)",
+                0.15000000000000002,
+                0.9
+            ],
+            [
+                "Kümmern(0) Sie(0) sich(0) sofort(0) um(1|IDF) alle(0) auftretenden(0) Probleme(0) ,(0) um(1|IDF) Verzögerungen(0) zu(0) vermeiden(0) .(0)",
+                0.14285714285714285,
+                0.86
+            ]
+        ],
+        "weakest": [
+            [
+                "Die(0) Forschung(0) im(0) Bereich(0) der(0) öffentlichen(0) Verwaltung(0) bewertet(0) die(0) Effektivität(0) und(0) Effizienz(0) von(0) Regierungsbehörden(0) und(0) -(0) programmen(0) .(0)",
+                0.0,
+                0.0
+            ],
+            [
+                "Das(0) Verständnis(0) der(0) Prinzipien(0) von(0) Angebot(0) und(0) Nachfrage(0) ist(0) grundlegend(0) für(0) die(0) Analyse(0) von(0) Marktverhalten(0) und(0) wirtschaftlichen(0) Schwankungen(0) .(0)",
+                0.0,
+                0.0
+            ]
+        ]
+    }
+}
